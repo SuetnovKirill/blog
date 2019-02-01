@@ -18,10 +18,10 @@ email: kyrie@yandex.ru
 description: >- # this means to ignore newlines until "baseurl:"
   Here in my blog I write mailly about software: met and solved issues, interesting (for me ) problems. 
   It's C++, python. It's Linux and Windows. It's bash and awk and etc.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://suetnovkirill.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  suetnovkirill
 
 # Build settings
 markdown: kramdown
